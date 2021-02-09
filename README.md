@@ -73,8 +73,6 @@ I also love to do frontend development with HTML, CSS  & backend with Django fra
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-zx&langs_count=5&theme=synthwave" width="350" height="250" ></a>
 
 </div>
-
-<img src="https://i.ibb.co/KhQMBLj/Snapchat-1673372765-01-1-Copy-Copy.jpg" align="left" style="width: 100%" />  
 <br/>  
 <br/>  
 <br />
