@@ -37,33 +37,6 @@ I also love to do frontend development with HTML, CSS  & backend with Django fra
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on a project based on ML with Django framework.  
-  
-
-- 🌱 I’m currently learning something new.  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-
-- 📌 Linux will be always interesting.  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
