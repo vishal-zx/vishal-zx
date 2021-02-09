@@ -56,18 +56,23 @@ I also love to do frontend development with HTML, CSS  & backend with Django fra
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+## Github Stats 
+<!--
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishal-zx&theme=dracula"/>
+  </a>
+</p>
+</details>-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishal-zx&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=vishal-zx&count_private=true&theme=synthwave&showicons=true" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-zx&langs_count=5&theme=synthwave" width="350" height="250" ></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-zx&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
+</div>
 
 <img src="https://i.ibb.co/KhQMBLj/Snapchat-1673372765-01-1-Copy-Copy.jpg" align="left" style="width: 100%" />  
 <br/>  
