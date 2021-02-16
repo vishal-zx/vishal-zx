@@ -34,8 +34,10 @@ Hey! I'm currently a Sophomore Undergrad from The LNMIIT, Jaipur. I'm a Competit
 I also love to do frontend development with HTML, CSS  & backend with Django framework sometimes.  
 
 Competitive Profile:
-Codechef : vishal_zx | 2098 | ⭐⭐⭐⭐⭐
-Codeforces : vishal_zx | 1372 | Pupil
+<br>
+Codechef : <a href ="https://www.codechef.com/users/vishal_zx" target="_blank">vishal_zx</a> | 2098 | ⭐⭐⭐⭐⭐ 
+<br>
+Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_blank">vishal_zx</a>| 1372 | Pupil
 
 <br/>  
 
