@@ -37,7 +37,7 @@ Competitive Profile:
 <br>
 Codechef : <a href ="https://www.codechef.com/users/vishal_zx" target="_blank">vishal_zx</a> | 2098 | ⭐⭐⭐⭐⭐ 
 <br>
-Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_blank">vishal_zx</a>| 1372 | Pupil
+Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_blank">vishal_zx</a> | 1372 | Pupil
 
 <br/>  
 
