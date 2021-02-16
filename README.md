@@ -32,7 +32,10 @@
 ### Welcome to my little </Code World>!  
 Hey! I'm currently a Sophomore Undergrad from The LNMIIT, Jaipur. I'm a Competitive Programmer enhancing my DSA skills.
 I also love to do frontend development with HTML, CSS  & backend with Django framework sometimes.  
-  
+
+Competitive Profile:
+Codechef : vishal_zx | 2098 | ⭐⭐⭐⭐⭐
+Codeforces : vishal_zx | 1372 | Pupil
 
 <br/>  
 
