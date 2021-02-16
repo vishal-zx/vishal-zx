@@ -35,7 +35,7 @@ I also love to do frontend development with HTML, CSS  & backend with Django fra
 
 Competitive Profile:
 <br>
-Codechef : <a href ="https://www.codechef.com/users/vishal_zx" target="_blank">vishal_zx</a> | 2098 | ⭐⭐⭐⭐⭐ 
+Codechef : <a href ="https://www.codechef.com/users/vishal_zx" target="blank">vishal_zx</a> | 2098 | ⭐⭐⭐⭐⭐ 
 <br>
 Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_blank">vishal_zx</a> | 1372 | Pupil
 
