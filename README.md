@@ -30,7 +30,7 @@
 
 
 ### Welcome to my little </Code World>!  
-Hey! Myself Vishal Gupta. I'm currently a Sophomore Undergrad from <a href="www.lnmiit.ac.in">The LNMIIT</a>, Jaipur. I'm a Competitive Programmer enhancing my DSA skills.
+Hey! Myself Vishal Gupta. I'm currently a Sophomore Undergrad from <a href="https://www.lnmiit.ac.in" target="_blank">The LNMIIT</a>, Jaipur. I'm a Competitive Programmer enhancing my DSA skills.
 I also love to do frontend development with HTML, CSS  & backend with Django framework sometimes.  
 
 Competitive Profile:
