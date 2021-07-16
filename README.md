@@ -51,23 +51,3 @@ Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_bl
 </div>  
 
 <br/>  
-
-
-## Github Stats 
-<!--
-<details align="center">
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=vishal-zx&theme=dracula"/>
-  </a>
-</p>
-</details>-->
-
-
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/?username=vishal-zx&count_private=true&theme=synthwave&showicons=true" width="350" height="250" ></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-zx&langs_count=5&theme=synthwave" width="350" height="250" ></a>
-
-</div>
-<br/> 
