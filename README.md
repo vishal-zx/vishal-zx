@@ -37,18 +37,18 @@ Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_bl
 
 ## Languages and Tools  
 <div align="center">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50">  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="Flutter" height="50" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70">  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="70" />  
+<img style="margin: 40px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="70" />  
+<img style="margin: 40px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="Flutter" height="70" />  
 </div>  
 
 <br/>  
