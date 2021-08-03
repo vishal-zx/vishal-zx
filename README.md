@@ -48,6 +48,7 @@ Codeforces : <a href ="https://www.codeforces.com/profile/vishal_zx" target="_bl
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 25px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 25px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="Flutter" height="50" />  
 </div>  
 
 <br/>  
