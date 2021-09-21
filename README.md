@@ -18,7 +18,7 @@
 - 🛠️ Latest Project : [Electa](https://github.com/vishal-zx/Electa)  
   
 
-- 🌐 Web Link  : [vishal-zx.me](https://vishal-zx.me)  
+- 🌐 Web Link  : [vishalzx.me](https://vishalzx.me)  
   
 
 <br/>  
