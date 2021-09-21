@@ -83,7 +83,7 @@
 
 <br/>  
 
-## 🎧  
+##  
 
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=x300d3ycdeu3f3kxgeacqkg5o&cover_image=true&theme=default" /></div>
