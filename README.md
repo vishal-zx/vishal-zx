@@ -46,6 +46,9 @@
 
 <br/>  
 
+[![@vishalzx's Holopin board](https://holopin.io/api/user/board?user=vishalzx)](https://holopin.io/@vishalzx)
+
+
 
 ## Connect with me  
 <div align="center">
