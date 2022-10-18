@@ -12,7 +12,7 @@
 - ⚡ Continuously enhancing DSA Skills  
 
 
-- ✨ Competitive Profiles : @vishal-zx | [Codechef](https://www.codechef.com/users/vishal_zx) | [Codeforces](https://codeforces.com/profile/vishal-zx) 
+- ✨ Competitive Profiles : @vishal-zx | [Codechef](https://www.codechef.com/users/vishal_zx) | [Codeforces](https://codeforces.com/profile/vishal_zx) 
   
 
 - 🛠️ Latest Project : [Electa](https://github.com/vishal-zx/Electa)  
