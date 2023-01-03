@@ -3,10 +3,7 @@
 ## **<div align="center">I'm Vishal Gupta, Flutter development enthusiast 👨‍💻 </div>**  
   
 
-- 🎓 Pre-Final CSE Undergrad at [LNMIIT, Jaipur](https://lnmiit.ac.in)  
-  
-
-- 🌱 I’m currently learning Flutter, Firebase & related technologies  
+- 🎓 Final Year CSE Undergrad at [LNMIIT, Jaipur](https://lnmiit.ac.in)  
   
 
 - ⚡ Continuously enhancing DSA Skills  
@@ -15,7 +12,7 @@
 - ✨ Competitive Profiles : @vishal-zx | [Codechef](https://www.codechef.com/users/vishal_zx) | [Codeforces](https://codeforces.com/profile/vishal_zx) 
   
 
-- 🛠️ Latest Project : [Electa](https://github.com/vishal-zx/Electa)  
+- 🛠️ Latest Projects : [Vishal's Repositories](https://github.com/vishal-zx?tab=repositories) 
   
 
 - 🌐 Web Link  : [vishalzx.me](https://vishalzx.me)  
